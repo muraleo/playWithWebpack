@@ -1,0 +1,28 @@
+{
+  "name": "playWithWebpack",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muraleo/playWithWebpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muraleo/playWithWebpack/issues"
+  },
+  "homepage": "https://github.com/muraleo/playWithWebpack#readme",
+  "devDependencies": {
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
